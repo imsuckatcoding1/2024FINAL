@@ -12,7 +12,7 @@ KOELECTRA를 사용하여 네이버 쇼핑리뷰의 긍부정 예측
 
 이 프로젝트에서는 네이버 쇼핑에 게시된 리뷰 데이터를 분석하여 소비자들이 상품을 신뢰하고 구매로 이어지는 데 영향을 미치는 주요 요인을 탐구하고자 한다. 더 나아가, 리뷰 내용과 평점을 바탕으로 리뷰의 긍정 또는 부정 여부를 자동으로 예측할 수 있는 인공지능 모델을 개발한다. 이를 통해 소비자들에게는 더 나은 구매 경험을, 판매자들에게는 서비스와 제품의 개선 방향성을 제시할 수 있을 것으로 기대된다.
 
-<div> <img src = "https://github.com/yeon0306/steam_game/assets/112537146/18cd9783-93d4-400e-9e41-b45f7a6f0823" width="800"></div>
+<div> <img src = [("https://github.com/yeon0306/steam_game/assets/112537146/18cd9783-93d4-400e-9e41-b45f7a6f0823"](https://github.com/imsuckatcoding1/2024FINAL/issues/1#issue-2747514739) width="800"></div>
 
 
 ### 1.2 데이터 및 모델 개요
