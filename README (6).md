@@ -61,7 +61,7 @@ KoELECTRA는 한국어 자연어 처리(NLP) 작업에 최적화된 언어 모�
 
 - 리뷰 문장 25자 이상 길이의 분포도
 
-![25자 이상분포표](https://github.com/yeon0306/steam_game/assets/112537146/f7dfccbc-a867-47cc-b399-bd489f8f71d3)
+![output](https://github.com/user-attachments/assets/6f3938df-dc0c-4a9a-8815-00a408ba066c)
 
 약 30자 이상 ~ 40자 이하의 리뷰 데이터가 가장 많은 것을 알 수 있다. 
 리뷰 데이터가 25자 이하의 짧은 리뷰는 매우 제한적이며 정보가 부족하다고 판단하여 25자 이하의 데이터 36317건을 삭제하였다.
